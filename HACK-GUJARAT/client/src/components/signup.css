@@ -1,0 +1,25 @@
+.form-control {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.form-fields {
+  color: black;
+  font-size: 1.2em;
+}
+
+.required:after {
+  content: " *";
+  color: red;
+}
+
+.container{
+  border: 1px solid rgb(175, 174, 174);
+  border-radius: 5px;
+  margin: 4vh;
+  padding: 1vh
+}

@@ -1,0 +1,16 @@
+
+ul{
+    margin-left: 10vw;
+    margin-top: 5vw;
+    font-size: 17px;
+}
+.ant-avatar{
+    margin-left: 10vw;
+}
+.container1{
+    display: flex;
+}
+.username{
+   margin-left: 5vw;
+   margin-top: 35px;
+}

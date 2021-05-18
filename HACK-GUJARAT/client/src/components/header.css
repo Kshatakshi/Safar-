@@ -1,0 +1,24 @@
+img{
+    /* position: fixed; */
+    z-index: 2; 
+    top:0%;
+    /* left: 4vw;  */
+    width: 20vw;
+}
+
+.ant-page-header-heading-title{
+    margin-left: 2vw;
+    width: 20vw;
+    /* font-size: 2.5vh; */
+}
+
+.ant-page-header-heading-sub-title{
+    margin-top: 2vh;
+    margin-left: 2vw;
+    width: 30vw;
+    font-size: 2vh;
+}
+
+.ant-page-header-heading-left{
+    margin-top: 0;
+}

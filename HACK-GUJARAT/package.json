@@ -1,0 +1,25 @@
+{
+  "name": "HACK-GUJRAT",
+  "version": "1.0.0",
+  "description": "``` cd server npm install cd client npm install cd ..",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshika451/HACK-GUJRAT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshika451/HACK-GUJRAT/issues"
+  },
+  "homepage": "https://github.com/anshika451/HACK-GUJRAT#readme",
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
+}
